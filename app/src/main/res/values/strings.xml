@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MailUber</string>
+    <string-array name="post_points">
+        <item>post1</item>
+        <item>post2</item>
+        <item>post3</item>
+        <item>post4</item>
+    </string-array>
+</resources>
